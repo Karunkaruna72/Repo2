@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is A287-FBC3
+
+ Directory of C:\Users\karun\OneDrive\Desktop\My Project
+
+12/27/2019  06:49 PM    <DIR>          .
+12/27/2019  06:49 PM    <DIR>          ..
+12/27/2019  06:49 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  158,027,907,072 bytes free
